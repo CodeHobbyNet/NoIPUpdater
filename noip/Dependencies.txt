@@ -1,0 +1,4 @@
+Depends on Curl.
+For Ubuntu, the package name is libcurl4-openssl-dev
+
+Depends on SQLite 3.
